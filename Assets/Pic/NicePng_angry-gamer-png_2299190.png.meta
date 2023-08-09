@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 558ec2b8fc775a344a53e9fb3c07c523
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5595434641637842763
+    second: NicePng_angry-gamer-png_2299190_0
+  - first:
+      213: -8688873997206620649
+    second: NicePng_angry-gamer-png_2299190_1
+  - first:
+      213: 6289463718866580834
+    second: NicePng_angry-gamer-png_2299190_2
+  - first:
+      213: 6505891773982764246
+    second: NicePng_angry-gamer-png_2299190_3
+  - first:
+      213: -4754165412005672389
+    second: NicePng_angry-gamer-png_2299190_4
+  - first:
+      213: -8243246587180962235
+    second: NicePng_angry-gamer-png_2299190_5
+  - first:
+      213: -5693061383623895954
+    second: NicePng_angry-gamer-png_2299190_6
+  - first:
+      213: 146216651893982039
+    second: NicePng_angry-gamer-png_2299190_7
+  - first:
+      213: 4468531430007995174
+    second: NicePng_angry-gamer-png_2299190_8
+  - first:
+      213: -1272084131014986497
+    second: NicePng_angry-gamer-png_2299190_9
+  - first:
+      213: 2442635110538623991
+    second: NicePng_angry-gamer-png_2299190_10
+  - first:
+      213: -2050657049927476436
+    second: NicePng_angry-gamer-png_2299190_11
+  - first:
+      213: 6342154464467614833
+    second: NicePng_angry-gamer-png_2299190_12
+  - first:
+      213: 6608446833656493654
+    second: NicePng_angry-gamer-png_2299190_13
+  - first:
+      213: -355375234196853108
+    second: NicePng_angry-gamer-png_2299190_14
+  - first:
+      213: -559183111305888422
+    second: NicePng_angry-gamer-png_2299190_15
+  - first:
+      213: -8426009518706773527
+    second: NicePng_angry-gamer-png_2299190_16
+  - first:
+      213: 8962216760078793152
+    second: NicePng_angry-gamer-png_2299190_17
+  - first:
+      213: -1317974693015776473
+    second: NicePng_angry-gamer-png_2299190_18
+  - first:
+      213: 8268429149449819235
+    second: NicePng_angry-gamer-png_2299190_19
+  - first:
+      213: -1477999299256495557
+    second: NicePng_angry-gamer-png_2299190_20
+  - first:
+      213: -1782132646164551955
+    second: NicePng_angry-gamer-png_2299190_21
+  - first:
+      213: -8704042600068817225
+    second: NicePng_angry-gamer-png_2299190_22
+  - first:
+      213: 120291157020929277
+    second: NicePng_angry-gamer-png_2299190_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 84
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0e24dd6d50952b0800000000000000
+      internalID: -5595434641637842763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 333
+        width: 252
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716fe5a922bea6780800000000000000
+      internalID: -8688873997206620649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 333
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ffb6ede9a84750800000000000000
+      internalID: 6289463718866580834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 376
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dce0674912994a50800000000000000
+      internalID: 6505891773982764246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 333
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a04f51fbfc50eb0800000000000000
+      internalID: -4754165412005672389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 251
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea02f47ea1a9d80800000000000000
+      internalID: -8243246587180962235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 257
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e649a90b5de2ef0b0800000000000000
+      internalID: -5693061383623895954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 257
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753436c2547770200800000000000000
+      internalID: 146216651893982039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 235
+        width: 169
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b7b4909a9630e30800000000000000
+      internalID: 4468531430007995174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 292
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b07ef836a85ee0800000000000000
+      internalID: -1272084131014986497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 313
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3d8ff0bbf5e120800000000000000
+      internalID: 2442635110538623991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1ce6274a9a83e0800000000000000
+      internalID: -2050657049927476436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 84
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cff3d12ebd30850800000000000000
+      internalID: 6342154464467614833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 214
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567625d16be5bb50800000000000000
+      internalID: 6608446833656493654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 105
+        width: 211
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea9bb7b14711bf0800000000000000
+      internalID: -355375234196853108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5df6364ce16d38f0800000000000000
+      internalID: -559183111305888422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 83
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13c635cfcc01b80800000000000000
+      internalID: -8426009518706773527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 83
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97c80d8a0306c70800000000000000
+      internalID: 8962216760078793152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72317d7effc95bde0800000000000000
+      internalID: -1317974693015776473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 61
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364117fd08c5fb270800000000000000
+      internalID: 8268429149449819235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 40
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b325a85d7771d7be0800000000000000
+      internalID: -1477999299256495557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 39
+        width: 84
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de62cbaecc79447e0800000000000000
+      internalID: -1782132646164551955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 16
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bed7090f57053780800000000000000
+      internalID: -8704042600068817225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_angry-gamer-png_2299190_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 16
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6ad38b2c5ba100800000000000000
+      internalID: 120291157020929277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
